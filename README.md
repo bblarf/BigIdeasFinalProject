@@ -1,6 +1,6 @@
 # Big Ideas Final Project
-# Lightning McQueen
-## Team Members
+# Team Lightning McQueen
+## Members
 * Eric Hart: ejh109@pitt.edu
 * Josh Frank
 * Kai Wisniewski
