@@ -1,5 +1,5 @@
 # Big Ideas Final Project
-# Team Lightning McQueen
+# Team Lightning McQueen: Group 6
 ## Members
 * Eric Hart: ejh109@pitt.edu
 * Josh Frank: jof91@gmail.com
