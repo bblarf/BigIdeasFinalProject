@@ -3,7 +3,7 @@
 ## Members
 * Eric Hart: ejh109@pitt.edu
 * Josh Frank: jof91@gmail.com
-* Kai Wisniewski
+* Kai Wisniewski: kaw260@pitt.edu
 ---
 ## DataSets Used
 * Eric - [Data regarding sets of stairs throughout the city](https://data.wprdc.org/dataset/city-steps)
